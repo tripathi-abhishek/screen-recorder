@@ -1,6 +1,6 @@
 # screen-recorder
 
-##Technology Used
+## Technology Used
 Electron
 JS
 CSS
